@@ -1,0 +1,9 @@
+anthropic
+requests
+python-dotenv
+jinja2
+markdown
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+pillow
